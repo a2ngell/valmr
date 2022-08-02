@@ -1,9 +1,9 @@
-0:Unranked
-1:Unused1
-2:Unused
-3:Iron1
-4:Iron2
-5:Iron3
+"0":"Unranked"
+"1":"Unused1"
+"2":"Unused"
+"3":Iron1
+"4":Iron2
+"5":Iron3
 6:Bronz1
 7:Bronz2
 8:Bronz3
