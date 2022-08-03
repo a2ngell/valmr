@@ -1,7 +1,7 @@
 {
 "0":"Unranked",
-"1":"Unused1",
-"2":"Unused",
+"1":"Unknow",
+"2":"Unknow",
 "3":"Iron1",
 "4":"Iron2",
 "5":"Iron3",
